@@ -7,10 +7,10 @@ Terbuka
 
 Anggota komunitas ini terbuka untuk berkolaborasi, bisa melalui saran, tanya-jawab, pemecahan masalah, dan lain-lain. Kami menerima komentar dan kritik yang membangun, karena pengalaman dan skill dari setiap anggota merupakan kontribusi terhadap keseluruhan komunitasi Python ID. Kami menerima semua pihak yang ingin ambil bagian dalam kegiatan kami, memelihara lingkungan komunitas dimana semua orang bisa berpartisipasi dan semua orang bisa membuat perbedaan.
 
-Considerate
-===========
+Penuh Perhatian
+===============
 
-Members of the community are considerate of their peers -- other Python users. We're thoughtful when addressing the efforts of others, keeping in mind that often times the labor was completed simply for the good of the community. We're attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
+Anggota komunitas Python ID selalu memperhatikan sesama (pengguna bahasa pemrograman python lain). Kita harus memberi perhatian terhadap usaha-usaha yang telah dilakukan anggota lain, tetap diingat bahwa seringkali pekerjaan yang dilakukan adalah demi kebaikan komunitas. Kita harus selalu menjaga sopan santun dalam berkomunikasi, baik itu secara langsung maupun online, dan selalu bijak dalam menyikapi perbedaan sudut pandang.
 
 Respectful
 ==========
