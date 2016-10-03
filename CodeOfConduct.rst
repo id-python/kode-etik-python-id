@@ -10,7 +10,7 @@ Anggota komunitas ini terbuka untuk berkolaborasi, bisa melalui saran, tanya-jaw
 Penuh Perhatian
 ===============
 
-Anggota komunitas Python ID selalu memperhatikan sesama (pengguna bahasa pemrograman python lain). Kita harus memberi perhatian terhadap usaha-usaha yang telah dilakukan anggota lain, tetap diingat bahwa seringkali pekerjaan yang dilakukan adalah demi kebaikan komunitas. Kita harus selalu menjaga sopan santun dalam berkomunikasi, baik itu secara langsung maupun online, dan selalu bijak dalam menyikapi perbedaan sudut pandang.
+Anggota komunitas Python ID selalu memperhatikan sesama (pengguna bahasa pemrograman Python lain). Kita harus memberi perhatian terhadap usaha-usaha yang telah dilakukan anggota lain, tetap diingat bahwa seringkali pekerjaan yang dilakukan adalah demi kebaikan komunitas. Kita harus selalu menjaga sopan santun dalam berkomunikasi, baik itu secara langsung maupun online, dan selalu bijak dalam menyikapi perbedaan sudut pandang.
 
 Saling Menghormati
 ==================
